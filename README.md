@@ -3,9 +3,9 @@
 ![Github lovers](https://1.bp.blogspot.com/-yRIXNL0HaeQ/YBr2nPctEJI/AAAAAAAAMsA/9AEccldHZkU_UjW5owQbRUKDDuL5-ni7ACLcBGAsYHQ/s960/11130160_10203968824241902_1704446697852246306_n%2B-%2BCopy.jpg)
 
 <!--
-**mesinkasir/mesinkasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**danska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Github stats](https://github-readme-stats.vercel.app/api?username=mesinkasir&theme=midnight-purple&show_icons=true&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=mesinkasir&theme=onedark)](https://github.com/mesinkasir)
+![Github stats](https://github-readme-stats.vercel.app/api?username=danska&theme=midnight-purple&show_icons=true&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=danska&theme=onedark)](https://github.com/danska83)
 
 
 
